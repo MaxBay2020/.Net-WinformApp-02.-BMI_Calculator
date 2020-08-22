@@ -1,0 +1,24 @@
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csprojAssemblyReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.GenerateResource.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.SplashScreen.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.MainForm.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.ResultForm.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Final\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.KeepFitForm.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csprojAssemblyReference.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.KeepFitForm.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.MainForm.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.ResultForm.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.SplashScreen.resources
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.GenerateResource.cache
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+D:\Centennial College\Semester02 (2020.05-08)\20M --Programming 2 (SEC. 006)\Assignments\Assignment 04\BMI_Caluculator\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
